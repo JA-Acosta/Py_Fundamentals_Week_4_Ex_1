@@ -1,0 +1,5 @@
+This is the thirteenth program derived from 100 program prompts suggested by ChatGPT.
+
+prompt(s):
+67. Write a program that models a bank account using a class. Implement methods to deposit, withdraw, and display the account balance.
+
